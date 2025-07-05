@@ -1,6 +1,6 @@
 # WebRTC Diagnostics & Debugging Suite
 
-A modern, professional web app for diagnosing and debugging WebRTC issues. Instantly check device access, network connectivity, and real-time call quality. Visualize metrics, log events, and get actionable troubleshooting tips—all in one place.
+A modern, professional web app for diagnosing and debugging WebRTC issues. Instantly check device access, network connectivity, and real-time call quality. Visualize metrics, log events, and get actionable troubleshooting tips all in one place.
 
 ## Features
 - Device check (microphone, camera, speakers, permissions)
