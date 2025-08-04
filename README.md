@@ -21,7 +21,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
 - npm       
   
 ### Setup  
-```bash  
+```bash   
 npm install    
 npm run dev 
 ```
