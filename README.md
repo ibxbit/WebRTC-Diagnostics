@@ -5,7 +5,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
 ## Features   
 - Device check (microphone, camera, speakers, permissions) 
 - STUN connectivity test (ICE candidates, network path types) 
-- Real-time stats: bitrate, packet loss, jitter, RTT (with live charts)    
+- Real-time stats: bitrate, packet loss, jitter, RTT (with live charts)     
 - Advanced stats: codecs, bandwidth estimation, ICE details  
 - Export results (JSON, CSV) and copy to clipboard       
 - Responsive, accessible, dark/light mode UI      
