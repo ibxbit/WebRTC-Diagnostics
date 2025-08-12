@@ -20,7 +20,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
 - Node.js (v18+ recommended)       
 - npm         
      
-### Setup   
+### Setup    
 ```bash    
 npm install     
 npm run dev 
