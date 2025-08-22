@@ -16,7 +16,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
             
 ## Getting Started                 
                    
-### Prerequisites           
+### Prerequisites            
 - Node.js (v18+ recommended)              
 - npm            
         
