@@ -22,7 +22,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
         
 ### Setup        
 ```bash      
-npm install     
+npm install      
 npm run dev  
 ```
 Visit [http://localhost:5173](http://localhost:5173) in your browser.
