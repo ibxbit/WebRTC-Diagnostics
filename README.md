@@ -13,7 +13,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
                  
 ## Live Demo            
 [https://webrtc-diagnostics.vercel.app/](https://webrtc-diagnostics.vercel.app/)               
-                 
+                  
 ## Getting Started                          
      
 ### Prerequisites               
