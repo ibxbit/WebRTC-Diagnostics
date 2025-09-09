@@ -11,7 +11,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
 - Responsive, accessible, dark/light mode UI               
 - SEO and social sharing optimized   
                   
-## Live Demo            
+## Live Demo             
 [https://webrtc-diagnostics.vercel.app/](https://webrtc-diagnostics.vercel.app/)                
                   
 ## Getting Started                          
