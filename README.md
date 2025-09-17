@@ -10,7 +10,7 @@ A modern, professional web app for diagnosing and debugging WebRTC issues. Insta
 - Export results (JSON, CSV) and copy to clipboard                  
 - Responsive, accessible, dark/light mode UI               
 - SEO and social sharing optimized      
-                    
+                     
 ## Live Demo               
 [https://webrtc-diagnostics.vercel.app/](https://webrtc-diagnostics.vercel.app/)                  
                    
