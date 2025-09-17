@@ -3,7 +3,7 @@
 A modern, professional web app for diagnosing and debugging WebRTC issues. Instantly check device access, network connectivity, and real-time call quality. Visualize metrics, log events, and get actionable troubleshooting tips all in one place. 
 
 ## Features   
-- Device check (microphone, camera, speakers, permissions)    
+- Device check (microphone, camera, speakers, permissions)     
 - STUN connectivity test (ICE candidates, network path types)    
 - Real-time stats: bitrate, packet loss, jitter, RTT (with live charts)           
 - Advanced stats: codecs, bandwidth estimation, ICE details          
