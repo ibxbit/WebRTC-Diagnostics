@@ -11,7 +11,7 @@ async function checkDevicesAndPermissions() {
     videoInput: 0,
     audioOutput: 0,
     permission: 'unknown',
-    error: null,
+    error: null, 
   };
   try {
     // Check permissions
