@@ -13,7 +13,7 @@ async function checkDevicesAndPermissions() {
     permission: 'unknown',
     error: null, 
   };
-  try {
+  try { 
     // Check permissions
     await navigator.mediaDevices.getUserMedia({ audio: true, video: true });
     results.permission = 'granted';
