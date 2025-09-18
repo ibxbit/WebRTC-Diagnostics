@@ -30,7 +30,7 @@ export default function StatsChart({ title, labels, data, ylabel, sublabel }) {
         data,
         fill: false,
         borderColor: '#36a2eb',
-        backgroundColor: '#36a2eb',
+        backgroundColor: '#36a2eb', 
         borderWidth: 3,
         pointRadius: 2.5,
         tension: 0.2,
